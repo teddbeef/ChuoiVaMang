@@ -1,4 +1,3 @@
-package ChuoiVaMangTrongJava;
 /*
 We have 2 ways to create a String
  */

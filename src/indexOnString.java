@@ -1,5 +1,3 @@
-package ChuoiVaMangTrongJava;
-
 public class indexOnString {
     public static void main(String[] args) {
         String chuoi = "Hello Tedd";

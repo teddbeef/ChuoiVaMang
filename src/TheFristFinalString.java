@@ -1,5 +1,3 @@
-package ChuoiVaMangTrongJava;
-
 import java.util.Scanner;
 
 public class TheFristFinalString {

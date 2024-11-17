@@ -1,5 +1,3 @@
-package ChuoiVaMangTrongJava;
-
 public class CreateChildInParent {
     public static void main(String[] args) {
         String parentString = "Good Evening Teddy!";
